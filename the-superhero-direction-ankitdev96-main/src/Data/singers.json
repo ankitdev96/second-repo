@@ -1,0 +1,64 @@
+
+  [
+    {
+        "key":"101",
+        "name": "Taylor Swift",
+        "age" : "31",
+        "country" : "America",
+        "img":"https://dailymusicroll.s3.us-west-2.amazonaws.com/wp-content/uploads/2019/12/27123744/Taylor-Swift-1.jpg",
+        "Role":"singer",
+        "salary":"1000000"
+
+    },
+
+    {
+        "key":"102",
+        "name": "Ariana Grande",
+        "age" : "28",
+        "country" : "America",
+        "img":"https://dailymusicroll.s3.us-west-2.amazonaws.com/wp-content/uploads/2019/12/27124120/Ariana-Grande-2.jpg",
+        "Role":"singer",
+        "salary":"1000000"
+    },
+
+    {
+        "key":"103",
+        "name": "Beyonce",
+        "age" : "40",
+        "country" : "America",
+        "img":"https://dailymusicroll.s3.us-west-2.amazonaws.com/wp-content/uploads/2019/12/27124404/Beyonc%C3%A9-3.jpg",
+        "Role":"singer",
+        "salary":"1000000"
+    },
+
+    {
+        "key":"104",
+        "name": "Ed Sheeran",
+        "age" : "30",
+        "country" : "UK",
+        "img":"https://dailymusicroll.s3.us-west-2.amazonaws.com/wp-content/uploads/2019/12/27124440/Ed-Sheeran-4.jpg",
+        "Role":"singer",
+        "salary":"1000000"
+    },
+
+    {
+        "key":"105",
+        "name": "Lady Gaga",
+        "age" : "35",
+        "country" : "America",
+        "img":"https://dailymusicroll.s3.us-west-2.amazonaws.com/wp-content/uploads/2019/12/27124527/Lady-Gaga-5.jpg",
+        "Role":"singer",
+        "salary":"1000000"
+    },
+
+    {
+        "key":"106",
+        "name": "Selena Gomez:",
+        "age" : "29",
+        "country" : "America",
+        "img":"https://dailymusicroll.s3.us-west-2.amazonaws.com/wp-content/uploads/2019/12/27124602/Selena-Gomez-6.jpg",
+        "Role":"singer",
+        "salary":"1000000"
+    }
+
+]

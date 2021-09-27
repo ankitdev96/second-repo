@@ -1,0 +1,19 @@
+.singer{
+    display: flex;
+    border-bottom: 1px solid lightgray;
+    margin-right: 5px;
+    padding: 5px;
+}
+
+.cart-item{
+    display:flex;
+    float: left;
+}
+.singer-container{
+    display: grid;
+    grid-template-columns: repeat(3,1fr);
+    grid-gap: 10px;
+    margin-right: 10px;
+    width: 20px;
+    height: 20px;
+}
